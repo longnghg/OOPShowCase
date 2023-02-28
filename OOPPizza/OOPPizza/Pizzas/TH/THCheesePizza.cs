@@ -9,6 +9,7 @@ namespace OOPPizza.Pizzas
 {
     public class THCheesePizza : Pizza
     {
+        // comment to test git merge
         public THCheesePizza()
         {
             name = "Cheese pizza (TH)";
